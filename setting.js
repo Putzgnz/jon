@@ -7,7 +7,7 @@ CREACOT : IKYYOFC
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = "6283198066419"
+global.owner = "6283820352529"
 global.namabot = "𝑷𝑼𝑻𝒁 𝑮𝑵𝒁"
 global.botname = "𝑮𝑵𝒁"
 global.autoJoin = false
